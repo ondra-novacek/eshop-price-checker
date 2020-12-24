@@ -1,0 +1,4 @@
+Requirements to run the code:
+
+Python 3.7+
+install packages: requests bs4 tinydb
